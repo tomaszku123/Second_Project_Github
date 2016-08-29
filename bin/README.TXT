@@ -1,0 +1,1 @@
+Plik README_TXT
